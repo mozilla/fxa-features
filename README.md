@@ -1,3 +1,4 @@
+[![Stories in Ready](https://badge.waffle.io/mozilla/fxa-features.png?label=ready&title=Ready)](https://waffle.io/mozilla/fxa-features)
 # Firefox Accounts Feature Planning
 
 This is a small meta-repo in which we do feature planning
