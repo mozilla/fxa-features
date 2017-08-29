@@ -1,10 +1,12 @@
-# Firefox Accounts Feature Planning
+# Status: Defunct
 
-This is a small meta-repo in which we do feature planning
-for Firefox Accounts.  There's no code here, it exists to
-host issues corresponding to feature cards that can show up
-in a waffleboard.  You almost certainly want to go straight
-to the waffleboard:
+## (was: Firefox Accounts Feature Planning)
 
-  https://waffle.io/mozilla/fxa-features
+This was a small meta-repo in which we did feature planning
+for Firefox Accounts.  It's being kept alive for now in order
+to preserve the history of issue cards and comments, but is
+no longer in active use.  Feature planning for FxA is now
+done via the "Projects" tool:
+
+  https://projects-beta.growthhackers.com/u/orgs/mozilla-corporation/projects/FAAS/notebook
 
